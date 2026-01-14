@@ -1,0 +1,6 @@
+streamlit
+qrcode[pil]
+cryptography
+opencv-python-headless
+numpy
+Pillow
